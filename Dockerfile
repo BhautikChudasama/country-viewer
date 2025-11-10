@@ -1,5 +1,5 @@
 FROM alpine
 
-COPY /tmp /abcd
+COPY ../abcd /abcd
 
 
